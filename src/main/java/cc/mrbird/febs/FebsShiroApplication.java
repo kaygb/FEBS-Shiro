@@ -14,6 +14,6 @@ public class FebsShiroApplication {
         new SpringApplicationBuilder(FebsShiroApplication.class)
                 .web(WebApplicationType.SERVLET)
                 .run(args);
-    }
+    }// test
 
 }
